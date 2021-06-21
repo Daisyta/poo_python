@@ -1,0 +1,100 @@
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Daisy Castillo quedando un saldo de :  SALDO: $ 1000
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 500 a Daisy Castillo quedando un saldo de :  SALDO: $ 1500
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 500 a Daisy Castillo quedando un saldo de :  SALDO: $ 2000
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 12200 a Antonio Riquelme quedando un saldo de :  SALDO: $ 12200
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Antonio Riquelme quedando un saldo de :  SALDO: $ 13200
+el usuario solicito un balance.
+el usuario realizó un giro de 200 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 13000
+el usuario solicito un balance.
+el usuario realizó un giro de 400 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12600
+el usuario solicito un balance.
+el usuario realizó un giro de 20 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12580
+el usuario solicito un balance.
+el usuario realizó un giro de 100 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12480
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Daisy Castillo quedando un saldo de :  SALDO: $ 1000
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 500 a Daisy Castillo quedando un saldo de :  SALDO: $ 1500
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 500 a Daisy Castillo quedando un saldo de :  SALDO: $ 2000
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 12200 a Antonio Riquelme quedando un saldo de :  SALDO: $ 12200
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Antonio Riquelme quedando un saldo de :  SALDO: $ 13200
+el usuario solicito un balance.
+el usuario realizó un giro de 200 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 13000
+el usuario solicito un balance.
+el usuario realizó un giro de 400 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12600
+el usuario solicito un balance.
+el usuario realizó un giro de 20 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12580
+el usuario solicito un balance.
+el usuario realizó un giro de 100 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12480
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Daisy Castillo quedando un saldo de :  SALDO: $ 1000
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 22500 a Daisy Castillo quedando un saldo de :  SALDO: $ 23500
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 500 a Daisy Castillo quedando un saldo de :  SALDO: $ 24000
+el usuario solicito un balance.
+el usuario realizó un giro de 5000 a Daisy Castillo quedando un saldo de  :  SALDO: $ 19000
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 12200 a Antonio Riquelme quedando un saldo de :  SALDO: $ 12200
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Antonio Riquelme quedando un saldo de :  SALDO: $ 13200
+el usuario solicito un balance.
+el usuario realizó un giro de 200 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 13000
+el usuario solicito un balance.
+el usuario realizó un giro de 400 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12600
+el usuario solicito un balance.
+el usuario realizó un giro de 20 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12580
+el usuario solicito un balance.
+el usuario realizó un giro de 100 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12480
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Daisy Castillo quedando un saldo de :  SALDO: $ 1000
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 22500 a Daisy Castillo quedando un saldo de :  SALDO: $ 23500
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 500 a Daisy Castillo quedando un saldo de :  SALDO: $ 24000
+el usuario solicito un balance.
+el usuario realizó un giro de 5000 a Daisy Castillo quedando un saldo de  :  SALDO: $ 19000
+el usuario solicito un balance.
+objeto creado
+El usuario imprimio el objeto usuario
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 12200 a Antonio Riquelme quedando un saldo de :  SALDO: $ 12200
+el usuario solicito un balance.
+El usuario acaba de hacer un depósito de 1000 a Antonio Riquelme quedando un saldo de :  SALDO: $ 13200
+el usuario solicito un balance.
+el usuario realizó un giro de 200 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 13000
+el usuario solicito un balance.
+el usuario realizó un giro de 400 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12600
+el usuario solicito un balance.
+el usuario realizó un giro de 20 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12580
+el usuario solicito un balance.
+el usuario realizó un giro de 100 a Antonio Riquelme quedando un saldo de  :  SALDO: $ 12480
+el usuario solicito un balance.
